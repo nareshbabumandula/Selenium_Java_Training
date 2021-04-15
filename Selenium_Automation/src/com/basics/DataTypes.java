@@ -36,6 +36,9 @@ public class DataTypes {
 		System.out.println("Minimum value of short data type is : " + Short.MIN_VALUE);
 		System.out.println("Maximum value of short data type is : " + Short.MAX_VALUE);
 		
+		System.out.println("Minimum value of Integer data type is : " + Integer.MIN_VALUE);
+		System.out.println("Maximum value of Integer data type is : " + Integer.MAX_VALUE);
+		
 	}
 
 }
